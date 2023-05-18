@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+.header {
+  height: 658px;
+  background-image: url('https://www.ignitiv.com/wp-content/uploads/2020/09/slide-s.png'),
+    url('https://www.ignitiv.com/wp-content/uploads/2020/09/slide-y.png'),
+    url('./../images/Digital-Transformation.jpg');
+  background-position: -400px 100px, 1050px 140px, center;
+  background-size: 600px, 600px, cover;
+  background-repeat: no-repeat, no-repeat, no-repeat;
+  position: relative;
+}
+.hero_section {
+  padding-top: 300px;
+}
+.hero_section h1 {
+  letter-spacing: 0.1rem;
+}
+.card1 {
+  background-color: #6f42c1 !important;
+}
+.left_section img {
+  width: 626px;
+}
+.right_section img {
+  width: 626px;
+}
+.section_last {
+  background-color: #ff0437;
+}
+
+.footer_top {
+  background-image: url('./../images/Footer.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  clear: both;
+  text-align: center;
+}
+.footer_bottom {
+  width: 100%;
+  background-color: #080822;
+}
+.angleup {
+  margin-top: -25px;
+}
